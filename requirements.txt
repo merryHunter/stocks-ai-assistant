@@ -1,0 +1,7 @@
+fastapi
+pydantic
+uvicorn
+openai
+nemoguardrails
+langchain
+langchain-openai
